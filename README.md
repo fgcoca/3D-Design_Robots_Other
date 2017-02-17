@@ -1,4 +1,4 @@
-(/08_BugBot.png)
+[/08_BugBot.png]
 
 ### 3D-Design
 
