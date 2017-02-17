@@ -1,6 +1,6 @@
-[/08_BugBot.png]
+![BugBot](/08_BugBot.png)
 
-### 3D-Design
+### **3D-Design**
 
 Diseños en 3D para imprimir y montar
 
