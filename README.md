@@ -1,4 +1,4 @@
-!/08_BugBot.png
+![BugBot](https://github.com/fgcoca/3D-Design/blob/master/Images/08_BugBot.png)
 
 ### **3D-Design**
 
