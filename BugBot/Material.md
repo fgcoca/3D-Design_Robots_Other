@@ -2,10 +2,15 @@
 
 *Cantidad         Material*
      8            Micromotores DC 3 V 65mA 3000 RPM vibradores
+     
      1            Interruptor deslizante 6 mm
+     
      1            Pila CR2032B 3V
+     
      2            Tornillo M3x18
+     
      2            Tuerca M3
+     
      ?            Material decoración como pompones, ojos, etc.
 
 ## **¿Donde se ha comprado el material?**
