@@ -1,6 +1,6 @@
 ### **Material necesario**
 
-*Cantidad         Material*
+     Cantidad     Articulo
 
      8            Micromotores DC 3 V 65mA 3000 RPM vibradores
      
