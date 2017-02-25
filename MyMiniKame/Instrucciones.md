@@ -1,3 +1,5 @@
+![MiniKame](https://github.com/fgcoca/3D-Design/blob/master/BugBot/Images/08_BB.jpg) 
+
 ## **Instrucciones**
 
 Podemos trabajar directamente con los archivos del repositorio siguiendo el proceso que se describe seguidamente.
