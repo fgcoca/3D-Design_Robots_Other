@@ -22,7 +22,7 @@ Interruptores -->> [Enlace] (https://es.aliexpress.com/item/SS12F15VG6-6MM-handl
 Resto del material -->> En tiendas locales
 
 
-### **Authors**
+### **Autores**
 
 [Federico Coca Caba] (https://github.com/fgcoca)
 
