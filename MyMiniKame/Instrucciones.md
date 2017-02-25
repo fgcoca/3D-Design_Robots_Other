@@ -1,4 +1,4 @@
-![MiniKame](https://github.com/fgcoca/3D-Design/blob/master/BugBot/Images/08_BB.jpg) 
+![MiniKame](https://github.com/fgcoca/3D-Design/blob/master/MyMiniKame/Fotos/01_AspectoFinal.png) 
 
 ## **Instrucciones**
 
