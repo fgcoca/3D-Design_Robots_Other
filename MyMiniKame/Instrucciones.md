@@ -43,10 +43,13 @@ Servos ->> [Enlace] (http://www.hobbyking.com/hobbyking/store/RC_PRODUCT_SEARCH.
 
 Bateria ->> [Enlace] (http://www.hobbyking.com/hobbyking/store/__11896__Turnigy_nano_tech_460mah_2S_25_40C_Lipo_Pack.html)
 
-Conversor DC/DC ->> [Enlace] (http://www.hobbyking.com/hobbyking/store/__34516__Turnigy_3A_UBEC_with_Low_Voltage_Buzzer_EU_warehouse_.html)
+Conversor DC/DC Turnigy Turnigy 3A UBEC with Low Voltage Buzzer ->> [Enlace] (http://www.hobbyking.com/hobbyking/store/__34516__Turnigy_3A_UBEC_with_Low_Voltage_Buzzer_EU_warehouse_.html)
 
+Rodamientos F693ZZ Bearings -->> [Enlace] (http://es.aliexpress.com/store/product/100pcs-flange-bearing-Miniature-ball-bearing-F693ZZ-Size3-8-4MM-ball-bearing/1393044_32590764222.html?spm=2114.30011108.3.20.R795t7&ws_ab_test=searchweb201556_6,searchweb201602_5_10036_10035_10034_507_10032_10020_10001_10002_10017_10010_10005_10011_10006_10003_10021_10004_10022_10009_401_10008_10018_10019,searchweb201603_2&btsid=0935fd41-e15d-4aa8-bb59-cfe0b6749ab0)
 
-Interruptores -->> [Enlace] (https://es.aliexpress.com/item/SS12F15VG6-6MM-handle-high-SLIDE-KNOB-lever-toggle-switch-3-feet-2-files-20pcs/1387433766.html?spm=2114.13010608.0.0.OPIlKu)
+Tarjeta Controladora FLASH NodeMcu WIFI Networking development board Based ESP8266 -->> [Enlace] (https://es.aliexpress.com/store/product/New-Wireless-module-CH340-NodeMcu-V3-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266-We/343255_32565317233.html?spm=2114.04010208.3.202.AaMe59&ws_ab_test=searchweb201556_2,searchweb201602_3_10036_10035_10034_507_10032_10020_10001_10002_10017_10010_10005_10011_10006_10003_10021_10004_10022_10009_10008_10018_10019,searchweb201603_8&btsid=2dee16f8-e545-4374-a7fa-be1990931aff)
+
+Tarjeta Base para conectar servos y controladora Node MCU Base ESP8266 Testing DIY Breadboard-->> [Enlace] (https://es.aliexpress.com/store/product/NodeMcu-base-ESP8266-testing-DIY-Breadboard/1504763_32450853909.html?spm=2114.12010408.1000016.1.kRNYBc&isOrigTitle=true)
 
 Resto del material -->> En tiendas locales
 
