@@ -24,17 +24,19 @@ En este último enlace están descrita la App Blynk necesaria para el manejo del
 
      Cantidad     Articulo
 
-     8            Micromotores DC 3 V 65mA 3000 RPM vibradores
+     8            Servos Turnigy TGY-306G-HV 
      
-     1            Interruptor deslizante 6 mm
+     1            Conversor DC/DC
      
-     1            Pila CR2032B 3V
+     1            Bateria Turnigy nano-tech 460mah 2S (http://www.hobbyking.com/hobbyking/store/__11896__Turnigy_nano_tech_460mah_2S_25_40C_Lipo_Pack.html)
      
-     2            Tornillo M3x18
+     4            Rodamientos
      
-     2            Tuerca M3
+     1            Tarjeta Controladora
      
-     ?            Material decoración como pompones, ojos, etc.
+     1            Tarjeta Base para conectar servos y controladora
+     
+     ?            Tornilleria y material vario en tiendas locales
 
 ## **¿Donde se ha comprado el material?**
 Micromotores DC 3 V 65mA 3000 RPM vibradores ->> [Enlace] (https://es.aliexpress.com/item/Smart-Phone-DC-3V-65mA-3000RPM-Mini-Vibration-Motor-Vibrating-Black/32222357638.html?spm=2114.13010608.0.0.OPIlKu)
