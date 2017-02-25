@@ -20,7 +20,7 @@ https://github.com/blynkkk/blynk-library
 
 En este último enlace están descrita la App Blynk necesaria para el manejo del robot.
 
-### **Authors**
+### **Autores**
 
 [Federico Coca Caba] (https://github.com/fgcoca)
 
