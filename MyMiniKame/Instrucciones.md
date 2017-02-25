@@ -12,12 +12,13 @@ y blynk-library-master.
 
 4.- Los archivos stl de las partes los podemos descargar [aquí] (https://github.com/JavierIH/miniKame)
 
-También podemos configurar nuestro IDE de Arduino descargando e instalando las diferentes librerías, el material y las instrucciones
-lo encontramos en los siguientes enlaces.
+También podemos configurar nuestro IDE de Arduino descargando e instalando las diferentes librerías, el material y como hacerlo lo encontramos en los siguientes enlaces.
 
 https://github.com/MrAPierce/miniBlynkKame
 
 https://github.com/blynkkk/blynk-library
+
+En este último enlace están descrita la App Blynk necesaria para el manejo del robot.
 
 ### **Authors**
 
