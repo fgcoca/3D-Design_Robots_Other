@@ -2,7 +2,7 @@
 
      Cantidad     Articulo
 
-     8            Micromotores DC 3 V 65mA 3000 RPM vibradores
+     1            Micromotor DC 3 V 65mA 3000 RPM vibradores
      
      1            Interruptor deslizante 6 mm
      
