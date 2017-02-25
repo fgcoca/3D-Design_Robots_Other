@@ -26,9 +26,9 @@ En este último enlace están descrita la App Blynk necesaria para el manejo del
 
      8            Servos Turnigy TGY-306G-HV 
      
-     1            Conversor DC/DC
+     1            Bateria Turnigy nano-tech 460mah 2S 
      
-     1            Bateria Turnigy nano-tech 460mah 2S (http://www.hobbyking.com/hobbyking/store/__11896__Turnigy_nano_tech_460mah_2S_25_40C_Lipo_Pack.html)
+     1            Conversor DC/DC 
      
      4            Rodamientos
      
@@ -39,7 +39,12 @@ En este último enlace están descrita la App Blynk necesaria para el manejo del
      ?            Tornilleria y material vario en tiendas locales
 
 ## **¿Donde se ha comprado el material?**
-Micromotores DC 3 V 65mA 3000 RPM vibradores ->> [Enlace] (https://es.aliexpress.com/item/Smart-Phone-DC-3V-65mA-3000RPM-Mini-Vibration-Motor-Vibrating-Black/32222357638.html?spm=2114.13010608.0.0.OPIlKu)
+Servos ->> [Enlace] (http://www.hobbyking.com/hobbyking/store/RC_PRODUCT_SEARCH.asp?strSearch=Turnigy+TG9z+Eco)
+
+Bateria ->> [Enlace] (http://www.hobbyking.com/hobbyking/store/__11896__Turnigy_nano_tech_460mah_2S_25_40C_Lipo_Pack.html)
+
+Conversor DC/DC ->> [Enlace] (http://www.hobbyking.com/hobbyking/store/__34516__Turnigy_3A_UBEC_with_Low_Voltage_Buzzer_EU_warehouse_.html)
+
 
 Interruptores -->> [Enlace] (https://es.aliexpress.com/item/SS12F15VG6-6MM-handle-high-SLIDE-KNOB-lever-toggle-switch-3-feet-2-files-20pcs/1387433766.html?spm=2114.13010608.0.0.OPIlKu)
 
