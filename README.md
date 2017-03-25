@@ -8,7 +8,7 @@ Nuestros diseños 3D para imprimir y montar
 
 [Federico Coca Caba] (https://github.com/fgcoca)
 
-Jesús Sorroche Cuerva
+[Jesús Sorroche Cuerva] (http://mihobbyconmicrocontroladorespic.blogspot.com.es/)
 
 
 ### **License**
