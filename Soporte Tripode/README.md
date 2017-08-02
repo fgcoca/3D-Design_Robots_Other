@@ -25,6 +25,16 @@ Montaje del conjunto en el trípode
 
 ![MontajeSoporte](https://github.com/fgcoca/3D-Design/blob/master/Soporte%20Tripode/imagenes/3-MontajeTripode.png)
 
+### **Manual rápido de uso**
+
+Breve manual en Inglés y Español para acompañar a la máquina. Se trata de un formato A3 tipo cartel para exponer junto al photobooth.
+
+El documento original en formato odt está en: 
+![Manual odt](https://github.com/fgcoca/3D-Design/blob/master/Soporte%20Tripode/Manual%20uso/Manual%20photobooth.odt)
+
+El mismo archivo en formato pdf está en:
+![Manual pdf](https://github.com/fgcoca/3D-Design/blob/master/Soporte%20Tripode/Manual%20uso/Manual%20photobooth.pdf)
+
 
 ### **Author**
 
