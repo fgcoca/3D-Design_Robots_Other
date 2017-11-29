@@ -79,3 +79,33 @@ Utilizando los mismos componentes realizamos el mismo montaje teniendo en cuenta
 Aunque las placas Arduino disponen de pines de 3.3V podriamos pensar en usar este pin como fuente para nuestros programadores, sobre todo si no tenemos una fuente de alimentación externa de 3.3 V, pero no es aconsejable porque suele hacer la programación del módulo ESP01 muy inestable.
 
 
+### **Programación del ESP01 desde el IDE de Arduino**
+Nos descargamos el código del firmware para el módulo ESP01 desde el enlace:
+
+https://github.com/mgesteiro/escornabot-MUWi/releases/latest
+
+Descomprimimos el archivo descargado y abrimos el fichero MUWi.ino con el IDE de Arduino y ya podemos subirlo al ESP-01.
+
+Puede ser necesario, para poder usar el puerto USB desde el IDE de Arduino en Ubuntu, añadir tu usuario al grupo dialout. En una terminal vamos a ejecutar el siguiente comando:
+        *~$ sudo usermod -a -G dialout $USER ->añadimos el usuario USER al grupo dialout.*
+El comando ‘usermod‘ lo usamos para cambiar los atributos de un usuario ya existente. La opción -G nos permite indicar grupos suplementarios y la opcíon -a,  añadir al usuario al grupo suplementario indicado en G sin eliminarlo de otros grupos. Es necesario para que el usuario pueda acceder a los dispositivos serie USB.
+
+### **Comprobación del funcionamiento del ESP01**
+Si el proceso de programación ha finalizado correctamente, el ESP-01 ejecutará, justo a continuación, el programa recién cargado, con lo que podrás comprobar que todo funciona: para ello abre el Monitor Serie del IDE de Arduino (menú Herramientas -> Monitor Serie), configúralo a 9600 baudios, conéctate con tu móvil (o cualquier otro dispositivo) al punto de acceso del ESP-01 (= Escornabot), espera a que te aparezca el mando en la pantalla (tal y como se ve en la tercera imagen de este artículo) y pulsa sus teclas. Si todo es correcto, verás cómo salen en la ventana del Monitor Serie tus pulsaciones en forma de letra (n = North, s = South, e = East, w = West y g = Go):
+
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Funcionamiento-Monitor-Serial.png)
+
+En el siguiente video vemos en acción el control remoto MUWi de EscornaBot.
+
+https://www.youtube.com/8PU0huBNPnA 
+
+# **Control vía Bluetooth desde App para Android**
+Jorge Lobo tiene preparada una sencilla aplicación para dispositivos Android con la herramienta MIT App Inventor. Se trata de una App simplemente funcional que podemos descargar desde cualquiera de los enlaces:
+Desde Google Drive:
+https://drive.google.com/file/d/0BwtFTf5rXVKGYmNjaXhzUk9ieGc/view?usp=sharing
+Desde el enlace a este post:
+http://ceipmiskatonic.blogspot.com.es/2015/04/controlar-el-escornabot-por-bluetooth.html
+Toda la información sobre la App está disponible en:
+https://github.com/escornabot/android
+El firmware para el control por Bluetooth con la clase BluetoothInterface, se puede descargar en:
+https://github.com/escornabot/arduino/releases
