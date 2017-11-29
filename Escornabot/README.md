@@ -1,11 +1,14 @@
-![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Logo-Escornabot-m.png)  ![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Mi-Escornabot-m.jpg) 
-
 # **Procesos iniciales para Escornabot en Ubuntu 16.04**
+
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Logo-Escornabot-m.png)  ![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Mi-Escornabot-m.jpg) 
 
 Prueba de Escornabot Brivoi con botonera on board, mediante WiFi, con Bluetooth y con librería externa. Para ellos vamos a describir al detalle los procesos a seguir en cada caso.
 
-# **Enlaces**
+En el siguiente enlace podemos ver el control del Escornabot Brivoi desde la botonera onboard, tal y como viene programado en mi caso.
 
+https://youtu.be/Mb06r2Gx4bg
+
+# **Enlaces**
 Toda la información oficial relativa a escornabot está en:
 
 + Web: https://escornabot.com/web/es
@@ -53,6 +56,26 @@ Ya podemos acceder a la web que nos sirve el mando universal por cualquiera de l
 
 ![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Navegador-Captive-m.png)  ![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Navegador-IP-m.png) 
 
+### **Programador para el módulo ESP01**
+Aunque existen muchas formas de programar el ESP01 en la web explican muy claramente como programarlo utilizando un Arduino nano y siguiendo el procedimiento recomendado no debe plantearnos ningún tipo de problema. Es posible programarlo usando un Arduino UNO u otro modelo y en este caso, como dispone de un pin de alimentación de 3.3 V ya no es necesaria la fuente externa.
+Programador con Arduino nano
+Necesitamos los siguientes materiales:
+    1 - Arduino Nano
+    1 - Protoboard
+    2 - Resistencia 10KΩ
+    1 - Resistencia 1KΩ
+    1 - Resistencia 2KΩ
+    1 - Fuente de alimentación 3.3 V y 250+ mA
+    Cables de conexión
+Realizamos el montaje que podemos ver en el enlace  https://aindustriosa.org/2017/09/escornabot-muwi-mucho-mas-que-wifi/
 
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Programador-montado.jpg)
+
+### **Programador con Arduino UNO**
+Utilizando los mismos componentes realizamos el mismo montaje teniendo en cuenta que los pines que usamos para hacer nuestro programador son: TX, RX, GND y Reset.
+
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Programador-UNO.png)
+
+Aunque las placas Arduino disponen de pines de 3.3V podriamos pensar en usar este pin como fuente para nuestros programadores, sobre todo si no tenemos una fuente de alimentación externa de 3.3 V, pero no es aconsejable porque suele hacer la programación del módulo ESP01 muy inestable.
 
 
