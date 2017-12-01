@@ -101,7 +101,7 @@ https://youtu.be/8PU0huBNPnA
 
 # **Control vía Bluetooth desde App para Android**
 
-Jorge Lobo tiene preparada una sencilla aplicación para dispositivos Android con la herramienta MIT App Inventor. Se trata de una App simplemente funcional que podemos descargar desde cualquiera de los enlaces:
+Jorge Lobo (@lobo_tic en Twitter) tiene preparada una sencilla aplicación para dispositivos Android con la herramienta MIT App Inventor. Se trata de una App simplemente funcional que podemos descargar desde cualquiera de los enlaces:
 
 * Desde Google Drive:
 https://drive.google.com/file/d/0BwtFTf5rXVKGYmNjaXhzUk9ieGc/view?usp=sharing
@@ -114,3 +114,7 @@ https://github.com/escornabot/android
 
 * El firmware para el control por Bluetooth con la clase BluetoothInterface, se puede descargar en:
 https://github.com/escornabot/arduino/releases
+
+## **Conexionado Bluetooth**
+La conexión con el módulo Bluetooth con Arduino es TX con RX y RX con TX (cruzados). Las otras 2 necesarias serán GND y VCC.
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Conex-BT.png)
