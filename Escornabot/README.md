@@ -97,16 +97,20 @@ Si el proceso de programación ha finalizado correctamente, el ESP-01 ejecutará
 
 En el siguiente video vemos en acción el control remoto MUWi de EscornaBot.
 
-https://www.youtube.com/8PU0huBNPnA 
+https://youtu.be/8PU0huBNPnA
 
 # **Control vía Bluetooth desde App para Android**
 
 Jorge Lobo tiene preparada una sencilla aplicación para dispositivos Android con la herramienta MIT App Inventor. Se trata de una App simplemente funcional que podemos descargar desde cualquiera de los enlaces:
-Desde Google Drive:
+
+* Desde Google Drive:
 https://drive.google.com/file/d/0BwtFTf5rXVKGYmNjaXhzUk9ieGc/view?usp=sharing
-Desde el enlace a este post:
+
+* Desde el enlace a este post:
 http://ceipmiskatonic.blogspot.com.es/2015/04/controlar-el-escornabot-por-bluetooth.html
-Toda la información sobre la App está disponible en:
+
+* Toda la información sobre la App está disponible en:
 https://github.com/escornabot/android
-El firmware para el control por Bluetooth con la clase BluetoothInterface, se puede descargar en:
+
+* El firmware para el control por Bluetooth con la clase BluetoothInterface, se puede descargar en:
 https://github.com/escornabot/arduino/releases
