@@ -131,6 +131,68 @@ Si el Escornabot está conectado y emparejado con nuestro dispositivo, el LED pr
 
 Una vez hecho esto, buscaremos el dispositivo bluetooth del escornabot con el botón 'Buscar escornabots' de la app, y lo seleccionaremos. Ya tendremos todo listo para programar el escornabot del mismo modo que haríamos con la botonera.
 
-![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/App-m.png) | ![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Boton-buscar-esconabots-m.png)
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/App-m.png) ![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Boton-buscar-esconabots-m.png)
 
+## **Comprobación del funcionamiento con Bluetooth**
+Enlace al video demostrativo:
+
+https://youtu.be/33xc6AU-5a0
+
+# **Reprogramación de Escornabot**
+En esta sección vamos a trabajar con la librería desarrollada Prudencio Luna y Pedro Ruiz del Club de Robótica Granada que podemos encontrar en su repositorio.
+
+* Web: http://clubroboticagranada.es/
+
+* Repositorio: https://github.com/clubroboticagranada/libreria-arduino-escornabot
+
+Para ello es necesario reprogramar el Arduino de nuestro Brivois y antes de nada debemos asegurarnos de tener a mano los firmwares originales para posteriormente poderlo devolver a su estado original.
+
+En el repositorio que alberga a este documento están disponibles los correspondientes a la versión de los mismos existente en el momento en el que se realizan las pruebas aunque, en los sitios oficiales de Escornabot podremos encontrar versiones más actuales.
+
+
+* Firmware para Arduino:
+https://github.com/escornabot/arduino 
+
+* Firmware MUWi:
+https://github.com/escornabot/esp-muwi 
+
+* Librería Club Robótica Granada
+https://github.com/clubroboticagranada/libreria-arduino-escornabot
+
+## **Carga de nueva librería**
+Para cargar la librería en el IDE de Arduino recurrimos al método de incluirla a partir del archivo comprimido zip que previamente hemos descargado. Una vez finalizado el proceso ya tendremos disponible la nueva librera.
+
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Libreria-m.png)
+
+Para probar el funcionamiento de la librería vamos a usar el ejemplo de test desarrollado por los autores de la librería.
+
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Ej-libreria-m.png)
+
+Básicamente la librería es una clase con su constructor y con los procedimientos definidos siguientes:
+
+* **drive (vueltas, velocidad):** Sirve para avanzar o retroceder. Se mueve el número de vueltas indicado, si son negativas va en el sentido contrario. La velocidad se da rpm.
+
+* **turn (vueltas, velocidad):** Sirve para girar. Se indica como antes el número de vueltas o fracción a girar, si son positivas gira en un sentido y negativas en el contrario. La velocidad se da en rpm.
+
+* **stop ():** detiene los dos motores.
+
+* **ledON (número de led):** sirve para encender los leds de escornabot. Los leds son: 3 (ambar, posición delantera), 1 (azul, posición trasera), 2 (rojo, posición derecha), y 4 (verde, posición izquierda).
+
+* **ledOFF (número de led):** sirve para apagar los leds de escornabot.
+
+* **buzzON ():** enciende el zumbador.
+
+* **buzzOFF ():** apaga el zumbador.
+
+* **pushButton():** devuelve el valor del botón pulsado. 3 delantero, 1 trasero, 2 derecha, 4 izquierda, 5 central.
+
+El funcionamiento se muy simple, basta con definir un elemento de la clase y ya tenemos accesibles los procedimientos definidos.
+
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Lib-func.png)
+
+En el mismo ejemplo está descrito su funcionamiento y en el enlace podemos verlo:
+
+https://youtu.be/58rhLhGofAU  
+
+***Y a jugar... con nuestro Escornabot!!***
 
