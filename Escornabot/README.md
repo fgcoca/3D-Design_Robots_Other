@@ -123,12 +123,14 @@ La conexión con el módulo Bluetooth con Arduino es TX con RX y RX con TX (cruz
 ## **Procesos con la App**
 Una vez descargada e instalada en nuestro dispositivo tendremos un acceso directo a la misma, pero antes de iniciarla debemos emparejar nuestros dispositivos Bluetooth. 
 
-![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Acceso-directo.png)
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Acceso-directo-m.png)
 
 Con el Bluetooth de nuestro dispositivo activado y Escornabot encedido procedemos a vincular ambos módulos. La clave por defecto del módulo, será '1234'.
 
 Si el Escornabot está conectado y emparejado con nuestro dispositivo, el LED presente en  el adaptador Bluetooth debe estar iluminado y no parpadear.
 
 Una vez hecho esto, buscaremos el dispositivo bluetooth del escornabot con el botón 'Buscar escornabots' de la app, y lo seleccionaremos. Ya tendremos todo listo para programar el escornabot del mismo modo que haríamos con la botonera.
+
+![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/App-m.png) | ![](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Escornabot/Images/Boton-buscar-esconabots-m.png)
 
 
