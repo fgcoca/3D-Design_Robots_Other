@@ -6,7 +6,7 @@ Prueba de Escornabot Brivoi con botonera on board, mediante WiFi, con Bluetooth 
 
 En el siguiente enlace podemos ver el control del Escornabot Brivoi desde la botonera onboard, tal y como viene programado en mi caso.
 
-https://youtu.be/Mb06r2Gx4bg
+[![](https://i9.ytimg.com/vi/Mb06r2Gx4bg/default.jpg?v=5a217ba1&sqp=CJDFj9EF&rs=AOn4CLCDWCRdjn5HA306jXjyHb27L1BORA)](https://youtu.be/Mb06r2Gx4bg)
 
 # **Enlaces**
 Toda la información oficial relativa a escornabot está en:
