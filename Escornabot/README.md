@@ -97,7 +97,7 @@ Si el proceso de programación ha finalizado correctamente, el ESP-01 ejecutará
 
 En el siguiente video vemos en acción el control remoto MUWi de EscornaBot.
 
-https://youtu.be/8PU0huBNPnA
+[![](https://i9.ytimg.com/vi/8PU0huBNPnA/default.jpg?v=5a217bd2&sqp=CJDFj9EF&rs=AOn4CLCD5jNsQp0RH2m-vdIpOz8Uf74ShQ)](https://youtu.be/8PU0huBNPnA)
 
 # **Control vía Bluetooth desde App para Android**
 
@@ -136,7 +136,7 @@ Una vez hecho esto, buscaremos el dispositivo bluetooth del escornabot con el bo
 ## **Comprobación del funcionamiento con Bluetooth**
 Enlace al video demostrativo:
 
-https://youtu.be/33xc6AU-5a0
+[![https://i9.ytimg.com/vi/33xc6AU-5a0/default.jpg?v=5a217be8&sqp=CJDFj9EF&rs=AOn4CLA-90EfvtIDFRxwcGAIen16HoZcFg]()](https://youtu.be/33xc6AU-5a0)
 
 # **Reprogramación de Escornabot**
 En esta sección vamos a trabajar con la librería desarrollada Prudencio Luna y Pedro Ruiz del Club de Robótica Granada que podemos encontrar en su repositorio.
@@ -192,7 +192,8 @@ El funcionamiento se muy simple, basta con definir un elemento de la clase y ya 
 
 En el mismo ejemplo está descrito su funcionamiento y en el enlace podemos verlo:
 
-https://youtu.be/58rhLhGofAU  
+[![](https://i9.ytimg.com/vi/58rhLhGofAU/default.jpg?v=5a217c01&sqp=CJDFj9EF&rs=AOn4CLCx7ZRBNnN9ZPac8ookXE9fBkvKvA)](https://youtu.be/58rhLhGofAU)
+
 
 ***Y a jugar... con nuestro Escornabot!!***
 
