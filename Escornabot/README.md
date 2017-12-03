@@ -136,6 +136,9 @@ Una vez hecho esto, buscaremos el dispositivo bluetooth del escornabot con el bo
 ## **Comprobación del funcionamiento con Bluetooth**
 Enlace al video demostrativo:
 
+
+[![]()]()
+
 [![https://i9.ytimg.com/vi/33xc6AU-5a0/default.jpg?v=5a217be8&sqp=CJDFj9EF&rs=AOn4CLA-90EfvtIDFRxwcGAIen16HoZcFg]()](https://youtu.be/33xc6AU-5a0)
 
 # **Reprogramación de Escornabot**
@@ -193,7 +196,6 @@ El funcionamiento se muy simple, basta con definir un elemento de la clase y ya 
 En el mismo ejemplo está descrito su funcionamiento y en el enlace podemos verlo:
 
 [![](https://i9.ytimg.com/vi/58rhLhGofAU/default.jpg?v=5a217c01&sqp=CJDFj9EF&rs=AOn4CLCx7ZRBNnN9ZPac8ookXE9fBkvKvA)](https://youtu.be/58rhLhGofAU)
-
 
 ***Y a jugar... con nuestro Escornabot!!***
 
