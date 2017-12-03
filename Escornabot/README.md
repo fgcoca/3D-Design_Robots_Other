@@ -139,8 +139,6 @@ Enlace al video demostrativo:
 
 [![](https://i9.ytimg.com/vi/33xc6AU-5a0/default.jpg?v=5a217be8&sqp=CJDFj9EF&rs=AOn4CLA-90EfvtIDFRxwcGAIen16HoZcFg)](https://youtu.be/33xc6AU-5a0)
 
-[![]()]()
-
 # **Reprogramación de Escornabot**
 En esta sección vamos a trabajar con la librería desarrollada Prudencio Luna y Pedro Ruiz del Club de Robótica Granada que podemos encontrar en su repositorio.
 
