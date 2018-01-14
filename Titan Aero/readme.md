@@ -45,9 +45,15 @@ En las imágenes siguientes vemos estas dos piezas ensambladas. Además también
 
 ![Vista1][5]  ![Vista2][6]
 
- [5]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/104.jpg
- [6]: hhttps://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/106.jpg
+[5]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/104.jpg
+[6]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/106.jpg
  
+El siguiente paso es montar el engranaje pequeño en el motor fijándolo mediante el tornillo prisionero que se facilita para ello.
+
+![Motor][7]
+
+ [7]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/105.jpg
+
 ![Umboxing](  "")
 
 
@@ -57,6 +63,6 @@ En las imágenes siguientes vemos estas dos piezas ensambladas. Además también
 
 
 ### **License**
-![License][8]
+![License][88]
 
- [8]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Lapicero/Licencia/licencia.png
+ [88]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Lapicero/Licencia/licencia.png
