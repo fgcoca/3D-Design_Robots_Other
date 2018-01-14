@@ -76,6 +76,17 @@ El siguiente paso es montar el engranaje pequeño en el motor fijándolo mediant
  
 Como observamos el trozo de tubo PTFE largo está insertado en el Idler hasta que hace tope y se aprecia perfectamente a través de los dos orificios.
 
+Ahora colocamos la tapa o refrigerador de forma que todo el conjunto quede bien acoplado y atornillamos todo el conjunto al motor.
+
+![MotorEngranaje][11]
+
+[11]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/109-tapa.jpg
+
+Los tornillos suministrados son un poco más largos de lo necesario por lo que debemos suplementarlos con arandelas hasta que aprieten correctamente (tres en mi caso) y asegrándonos que el que va en el orificio del rodamiento una de las arandelas sea la dentada que viene con el kit.
+
+![MotorEngranaje][12]
+
+[12]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/110.jpg
 
 
 
