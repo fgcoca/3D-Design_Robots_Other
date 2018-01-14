@@ -26,7 +26,7 @@ En la imagen podemos ver la parte del nozzle, puente térmico y calefactor ya en
 
 Cabe destacar que en la imagen el tubo de PTFE ya está cortado en dos partes, una de 23 mm para colocar en su guía y el resto que nos va a servir para introducir el filamento en el idler.
 
-En las imágenes siguientes podemos observar como se monta el tubo PTFE de 23 mm.
+En las imágenes siguientes podemos observar como se monta el tubo PTFE de 23 mm y el rodamiento.
 
 ![SinMontar][3]  ![Montado][4]
 
@@ -53,8 +53,30 @@ El siguiente paso es montar el engranaje pequeño en el motor fijándolo mediant
 ![Motor][7]
 
  [7]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/105.jpg
+ 
+ ### **Montaje del extrusor**
+ 
+ Vamos a colocar el motor y el cuerpo del extrusor en el soporte de montaje. Situamos los elementos tal y como se observa en la imagen y usamos el tornillo M3x8mm (inferior derecha de la imagen) para sujetar el conjunto dejando el resto de agujeros alineados para atornillar posteriormente.
 
-![Umboxing](  "")
+![MotorExtruder][8]
+
+ [8]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/107.jpg
+ 
+ Ahora procedemos a colocar el engranaje grande en su lugar. El engranaje del motor y este deben quedar alineados, tal y como se ve en la imagen.
+ 
+![MotorEngranaje][9]
+
+ [9]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/108.jpg
+ 
+ Colocamos ahora el conjunto regulador de fricción del filamento y el Idler en su posición para que el conjunto quede como vemos seguidamente.
+ 
+![MotorEngranaje][10]
+
+[10]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/109.jpg  
+ 
+Como observamos el trozo de tubo PTFE largo está insertado en el Idler hasta que hace tope y se aprecia perfectamente a través de los dos orificios.
+
+
 
 
 ### **Author**
