@@ -84,16 +84,29 @@ Ahora colocamos la tapa o refrigerador de forma que todo el conjunto quede bien 
 
 Los tornillos suministrados son un poco más largos de lo necesario por lo que debemos suplementarlos con arandelas hasta que aprieten correctamente (tres en mi caso) y asegrándonos que el que va en el orificio del rodamiento una de las arandelas sea la dentada que viene con el kit.
 
-![MotorEngranaje][12]
+![MotorTapa][12]
 
 [12]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/110.jpg
 
+Finalmente sujetamos el ventilador con sus cuatro tornillos de rosca chapa, colocamos el termistor y el cartucho calefactor sujetándolos en su lugar y tenemos el extrusor listo para montar en el carro del eje X.
 
+![MotorAcabado][13]
+
+[13]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/111.jpg
+
+### **Ajuste de los pasos por mm en Marlin**
+
+Una vez montado el extrusor en la impresora lo único que resta es ajustar los pasos por mm en Marlin o para nuestro firmware concreto. Calculando para nuestro caso por cualquiera de los métodos que podemos encontrar en la web y realizando un ajuste final por medida de longitud extruida en mi caso llego a la conclusión de que debo configurlo a 400.
+
+Y finalmente ya tenemos el flamante extrusor 100% operativo y en las primeras pruebas realizadas se observa un funcionamiento muy preciso con unos resultados excelentes.
+
+![MotorAcabado][14]
+
+[14]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Titan%20Aero/Images/113.jpg
 
 ### **Author**
 
 [Federico Coca Caba] (https://github.com/fgcoca)
-
 
 ### **License**
 ![License][88]
