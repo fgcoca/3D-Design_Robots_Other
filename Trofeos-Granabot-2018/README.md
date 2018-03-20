@@ -9,7 +9,7 @@
 # **Aspecto**
 Se pone a título de ejemplo el primer premio de la prueba de minisumo
 
-![D][2]  ---    ![R][3]
+![D][2]  ........ ![R][3]
 
  [2]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Trofeos-Granabot-2018/Images/Capturas/Minisumo/Minisumo-1-m.png
  [3]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Trofeos-Granabot-2018/Images/Fotos/Minisumo/1-Minisumo.jpg
