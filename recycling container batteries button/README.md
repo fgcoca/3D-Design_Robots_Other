@@ -38,32 +38,10 @@ También tenemos disponibles los archivos en formato STEP para poderlos abrir co
 ## **Montaje**
 Realmente el montaje es tan simple como pegar un símbolo de reciclado en cada cara del contenedor y poner la tapa.
 
-Un video del contenedor montado lo tenemos en el enlace 
-
-### **Contador hexadecimal de un dígito**
-En este segundo ejemplo en [icestudio](https://github.com/FPGAwars/icestudio/) vamos a implementar un circuito que realice una cuenta cíclica hexadecimal de un dígito.  
-El circuito del **ejemplo 2** en icestudio. Disponible para [descargar](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Ejemplo-2.ice). Necesitamos para el montaje una [tabla 4-7](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/tabla-hex-4-7.ice) en hexadécimal.
-
-![Image][7]
- 
-[7]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Images/Ejemplo-2%20%E2%94%80%20Icestudio.png
-
-Un video del funcionamiento lo tenemos en el [enlace de Youtube](https://www.youtube.com/watch?v=0TFfjMD-Fqs&feature=youtu.be)
-
-
-### ** Decontador hexadecimal de un digito**
-Este tercer ejemplo en [icestudio](https://github.com/FPGAwars/icestudio/) realizamos un circuito que haga una cuenta cíclica hexadecimal descendente de un dígito.  
-El circuito del **ejemplo 3** en icestudio. Disponible para [descargar](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Ejemplo-3.ice). Necesitamos para el montaje una [tabla 4-7](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/tabla-hex-4-7.ice) en hexadécimal.
-
-![Image][8]
- 
-[8]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Images/Ejemplo-3%20%E2%94%80%20Icestudio.png
-
-Un video del funcionamiento lo tenemos en el [enlace de Youtube](https://www.youtube.com/watch?v=kwbm4inp-pA&feature=youtu.be)
-
+Un video del contenedor montado lo tenemos en el [enlace](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/media/Container.mpeg)
 
 ## **Fecha de publicación**
-Esta entrada al repositorio se creó el da 20 de agosto de 2018.
+Esta entrada al repositorio se creó el da 23 de agosto de 2018.
 
 ## **Autor**
 
@@ -72,4 +50,4 @@ Esta entrada al repositorio se creó el da 20 de agosto de 2018.
 ## **Licencia**
 ![License][88]
 
- [88]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/licencia.png
+ [88]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/media/licencia.png
