@@ -20,23 +20,25 @@ Se ha impreso con los siguientes parámetros:
 ## **Descargas**
 | Fichero | Descripción|
 | ---------- | ---------- |
-| [Container.fcstd]()   | Archivo fuente para **Freecad** 0.17 de la caja   |
-| [Recycle-Simbol.fcstd]()   | Archivo fuente para **Freecad** 0.17  de la tapa  |
-| [Recycle-Simbol.svg]()   | Archivo fuente para inkscape del símbolo de reciclaje vectorial |
-| [Container-box.stl]()   | Archivo STL para impresión de la caja  |
-| [Container-lid.stl]()   | Archivo STL para impresión de la tapa  |
-| [Recycle-Simbol.stl]()   | Archivo STL para impresión del símbolo de reciclaje |
+| [Container.fcstd](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/Design/Container.fcstd)   | Archivo fuente para **Freecad** 0.17 de la caja   |
+| [Recycle-Simbol.fcstd](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/Design/Recycle-Simbol.fcstd)   | Archivo fuente para **Freecad** 0.17  de la tapa  |
+| [Recycle-Simbol.svg](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/Design/Recycle-Simbol.svg)   | Archivo fuente para inkscape del símbolo de reciclaje vectorial |
+| [Container-box.stl](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/stl/Container-box.stl)   | Archivo STL para impresión de la caja  |
+| [Container-lid.stl](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/stl/Container-lid.stl)   | Archivo STL para impresión de la tapa  |
+| [Recycle-Simbol.stl](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/stl/Recycle-Simbol.stl)   | Archivo STL para impresión del símbolo de reciclaje |
 
 También tenemos disponibles los archivos en formato STEP para poderlos abrir con otras herramientas CAD. 
 
 | Fichero | Descripción|
 | ---------- | ---------- |
-| [base-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/base-7segmentos.step)   |Archivo STEP para la parte posterior  |
-| [tapa-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/tapa-7segmentos.step)   |Archivo STEP para la parte delantera  |  
+| [Container-box.step](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/Step/Container-box.step)   | Archivo STEP de la caja  |
+| [Container-lid.step](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/Step/Container-lid.step)   | Archivo STEP de la tapa  |
+| [Recycle-Simbol.step](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/recycling%20container%20batteries%20button/Step/Recycle-Simbol.step)   | Archivo STEP del símbolo de reciclaje | 
 
 ## **Montaje**
+Realmente el montaje es tan simple como pegar un símbolo de reciclado en cada cara del contenedor y poner la tapa.
 
-Un video del funcionamiento lo tenemos en el [enlace de Youtube](https://www.youtube.com/watch?v=fXAYxmS0DNs&feature=youtu.be)
+Un video del contenedor montado lo tenemos en el enlace 
 
 ### **Contador hexadecimal de un dígito**
 En este segundo ejemplo en [icestudio](https://github.com/FPGAwars/icestudio/) vamos a implementar un circuito que realice una cuenta cíclica hexadecimal de un dígito.  
