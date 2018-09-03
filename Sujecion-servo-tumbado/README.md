@@ -12,7 +12,10 @@ Elegir uno de los sujetadores, bajar el fichero .STL desde la sección de descar
 
 | SG90 | Futaba 3003 |
 | ---------- | ---------- |
-| [](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Images/SG90-2m.png) | [](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Images/Futaba3003-1m.png) |
+| ![Image][1] | ![Image][2] |
+ [1]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Images/SG90-2m.png  
+ [2]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Images/Futaba3003-1m.png
+
 
 ## **Descargas**
 | Fichero | Descripción|
