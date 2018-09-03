@@ -8,26 +8,11 @@ Los modelos 3D de los servos y de la chincheta han sido importados desde la Libr
 Desde aquí se dan todos los creditos a la publicación en este repositorio.
 
 ## **Impresión de los sujetadores**
-Elegir uno de los soportes, bajar el fichero .STL desde la sección de descarga e imprimir
+Elegir uno de los sujetadores, bajar el fichero .STL desde la sección de descarga e imprimir
 
-![Image][1] 
-
- [1]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/fhotos/Soporte-3D-mini.png
-
-El soporte se ha impreso con los siguientes parámetros:
-
-* Material: PLA gris Outlet de [Sakata 3D](https://sakata3d.com/gb/)
-* Impresora: Prusa i3 Psique, Nozzle 0.4, base fría
-* Laminador: Cura 3.2.1
-* Altura de capa: 0.2mm
-* Velocidad: 45mm/s
-
-## **Colocar la Alhambra II sobre el soporte**
-Nos aseguramos de que los tetones estén alineados con los taladros y presionamos hasta escuchar un clac.
 | SG90 | Futaba 3003 |
 | ---------- | ---------- |
 | [](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Images/SG90-2m.png) | [](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Images/Futaba3003-1m.png) |
-
 
 ## **Descargas**
 | Fichero | Descripción|
