@@ -10,9 +10,8 @@ Desde aquí se dan todos los creditos a la publicación en este repositorio.
 ## **Impresión de los sujetadores**
 Elegir uno de los sujetadores, bajar el fichero .STL desde la sección de descarga e imprimir
 
-| SG90 | Futaba 3003 |
-| ---------- | ---------- |
-| ![Image][1] | ![Image][2] |
+![Image][1] ![2]
+
  [1]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Images/SG90-2m.png  
  [2]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Images/Futaba3003-1m.png
 
@@ -20,23 +19,17 @@ Elegir uno de los sujetadores, bajar el fichero .STL desde la sección de descar
 ## **Descargas**
 | Fichero | Descripción|
 | ---------- | ---------- |
-| [alhambra-II-support.fcstd](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/Design/alhambra-II-support.fcstd)   | Archivo fuente para **Freecad** 0.17   |
-| [Alhambra-II-Support-with-text.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/stl/Alhambra-II-Support-with-text.stl)   | Archivo STL del soporte con texto   |
-| [Alhambra-II-Support-NO-text.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/stl/Alhambra-II-Support-NO-text.stl)   | Archivo STL del soporte minimalista  |
-| [Alhambra-II-Support-with-text.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/step/Alhambra-II-Support-with-text.step)   | Archivo STEP del soporte con texto  |
-| [Alhambra-II-Support-NO-text.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/step/Alhambra-II-Support-NO-text.step)   | Archivo STEP del soporte minimalista  |
-
-## **Videos**
-En los siguientes enlaces podemos ver un video de prueba con los LEDs internos de la placa y tres LEDs externos y en el otro se ve el proceso de carga del firmware de prueba de la placa publicado en [FPGAwars/Alhambra-II-FPGA](https://github.com/FPGAwars/Alhambra-II-FPGA/tree/master/examples/user-test).
-
-* [Test-1](https://youtu.be/c4QdQ5LqcVw)
-* [A2-user-test-Reload](https://youtu.be/j2aKBtynkGg)
+| [Sujeciones.fcstd](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Design/Sujeciones.fcstd)   | Archivo fuente para **Freecad** 0.17   |
+| [Sujecion-servo-SG90.stl](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/STL/Sujecion-servo-SG90.stl)   | Archivo STL del sujetador para servo SG90   |
+| [Sujecion-servo-Futaba3003.stl](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/STL/Sujecion-servo-Futaba3003.stl)   | Archivo STL del sujetador para servo Futaba 3003   |
+| [Sujecion-servo-SG90.step](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/STEP/Sujecion-servo-SG90.step)   | Archivo STEP del sujetador para servo SG90   |
+| [Sujecion-servo-Futaba3003.step](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/STEP/Sujecion-servo-Futaba3003.step)   | Archivo STEP del sujetador para servo Futaba 3003 |
 
 ## **Enlaces**
  [Piezas en thingiverse](https://www.thingiverse.com/thing:1305273)
 
 ## **Fecha de publicación**
-Este repositorio se creó el da 13 de agosto de 2018.
+Esta entrada al repositorio se creó el da 3 de septiembre de 2018.
 
 ## **Autor**
 
@@ -45,4 +38,4 @@ Este repositorio se creó el da 13 de agosto de 2018.
 ## **Licencia**
 ![License][88]
 
- [88]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/fhotos/licencia.png
+ [88]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/Images/licencia.png
