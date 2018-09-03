@@ -26,7 +26,7 @@ Elegir uno de los sujetadores, bajar el fichero .STL desde la sección de descar
 | [Sujecion-servo-Futaba3003.step](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Sujecion-servo-tumbado/STEP/Sujecion-servo-Futaba3003.step)   | Archivo STEP del sujetador para servo Futaba 3003 |
 
 ## **Enlaces**
- [Piezas en thingiverse](https://www.thingiverse.com/thing:1305273)
+ [Piezas en thingiverse](https://www.thingiverse.com/thing:1305267)
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 3 de septiembre de 2018.
