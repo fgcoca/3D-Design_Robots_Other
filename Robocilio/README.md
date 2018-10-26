@@ -43,8 +43,7 @@ Descripción del proceso y resultados sobre la idea de levantar en 3D el logotip
  En el [enlace](https://youtu.be/AEtEMB_dcPE) podemos ver un video del proceso de creación del modelo 3D.
  
 ## **Impresión 3D**
-Descargaar los archivos stl desde la zona de descargas.  
-En mi caso he realizado las impresiones con los siguientes parámetros:  
+Descargar los archivos stl desde la zona de descargas. En mi caso he realizado las impresiones con los siguientes parámetros:  
 * Material: PLA Aubergin, PLA White y ABS Green-Yellow 
 * Impresora: Prusa i3, Nozzle 0.4
 * Laminador: Cura 3.5.1
