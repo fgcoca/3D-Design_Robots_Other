@@ -22,7 +22,7 @@ Descripción del proceso y resultados sobre la idea de levantar en 3D el logotip
  
  [3]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Robocilio/Images/i2-corona-m.png
  
- * **Torso**. Se levanta en 3D el torso, los pies y el cuello de Robocilio.
+ * **Torso**. Se levanta en 3D el torso, los pies y el cuello de Robocilio. También se añade un Arduino UNO muy esquemático.
 
  ![Image][4]
  
@@ -35,74 +35,36 @@ Descripción del proceso y resultados sobre la idea de levantar en 3D el logotip
  [5]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Robocilio/Images/i4-robocilio-m.png
  
  El resultado impreso en tres colores y a dos tamaños lo podemos ver en la imagen.
+
+![Image][6]
  
+ [6]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Robocilio/Media/Impresiones.png
+ 
+ En el [enlace](https://youtu.be/AEtEMB_dcPE) podemos ver un video del proceso de creación del modelo 3D.
  
 ## **Impresión 3D**
 Descargaar los archivos stl desde la zona de descargas.  
-En mi caso he realizado la impresión con los siguientes parámetros:  
-* Material: PLA Gold Ingeo de Sakata 3D filaments
-* Impresora: Prusa i3 Psique, Nozzle 0.4
-* Laminador: Cura 3.2.1
+En mi caso he realizado las impresiones con los siguientes parámetros:  
+* Material: PLA Aubergin, PLA White y ABS Green-Yellow 
+* Impresora: Prusa i3, Nozzle 0.4
+* Laminador: Cura 3.5.1
 * Altura de capa: 0.2mm
 * Velocidad: 45mm/s
 
 ## **Descargas**
 | Fichero | Descripción|
 | ---------- | ---------- |
-| [Spinner-ZZ809-M10.fcstd](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Design/Spinner-ZZ809-M10.fcstd)   | Archivo fuente para **Freecad** 0.17   |
-| [Base.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Base.stl)   | Archivo STL para la base que irá sujeta con chinchetas al corcho   |
-| [Spinner.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Spinner.stl)   | Archivo STL para imprimir el spinner   |
-| [Tapa-rodamiento.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Tapa-rodamiento.stl)   | Archivo STL para imprimir la tapa del rodamiento   |
-| [Tapa-tuerca-hembra.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Tapa-tuerca-hembra.stl)   | Archivo STL para la hembra de la tapa de tuerca   |
-| [Tapa-tuerca-macho.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Tapa-tuerca-macho.stl)   | Archivo STL para el macho de la tapa de tuerca    |
-
-También tenemos disponibles los archivos en formato STEP para poderlos abrir con otras herramientas CAD. 
-
-| Fichero | Descripción|
-| ---------- | ---------- |
-| [Base.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Base.step)   | Archivo STEP para la base que irá sujeta con chinchetas al corcho   |
-| [Spinner.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Spinner.step)   | Archivo STEP del spinner   |
-| [Tapa-rodamiento.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Tapa-rodamiento.step)   | Archivo STEP de la tapa del rodamiento   |
-| [Tapa-tuerca-hembra.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Tapa-tuerca-hembra.step)   | Archivo STEP de la hembra de la tapa de tuerca   |
-| [Tapa-tuerca-macho.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Tapa-tuerca-macho.step)   | Archivo STEP del macho de la tapa de tuerca    |
+| [Robocilio.fcstd](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Robocilio/Design/Robocilio.fcstd)   | Archivo fuente para **Freecad** 0.16   |
+| [Robocilio.stl](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Robocilio/stl/Robocilio.stl)   | Archivo STL con el logo de unos 200mm de altura   |
+| [Robocilio150.stl](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Robocilio/stl/Robocilio150.stl)   | Archivo STL con el logo de unos 150mm de altura    |
+| [Robocilio100.stl](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Robocilio/stl/Robocilio100.stl)   | Archivo STL con el logo de unos 100mm de altura    |
+| [Robocilio70.stl](https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Robocilio/stl/Robocilio70.stl)   | Archivo STL con el logo de unos 70mm de altura   |
 
 ## **Montaje**
-Partimos del conjunto de piezas impresas:
-
-![Image][4]
- 
- [4]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Media/1-Piezas-impresas-m.jpg
- 
- Insertamos las tuercas y el rodamiento en sus lugares:
- 
- ![Image][5]
- 
- [5]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Media/2-Montaje-vitaminas-m.jpg
- 
- Finalmente colocamos las tapas de los elementos y ponemos el spinner en su base:
- 
- ![Image][6]
- 
- [6]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Media/3Montaje-final-m.jpg
-
-Todos los archivos multimedia están en este [enlace](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Base-spinner-FPGAwars/Media)
-
-## **Pruebas**
-Un video del funcionamiento del sistema lo tenemos en el [enlace de Youtube](https://youtu.be/OPzC9vBRi3I)
+Lo único que tenemos que hacer es colocar una anilla en el orificio de la parte posterior de la corona y ya tenemos el conjunto listo.
 
 ## **Fecha de publicación**
-Esta entrada al repositorio se creó el da 16 de septiembre de 2018.
-
-## **Créditos**
-*Sobre la tuerca:
-**Nombre:** Printable Metric Nuts - DIN 934
-**sitio de descarga:** https://www.thingiverse.com/thing:582089/files
-**Autor:** Marco. loco - https://www.thingiverse.com/loco
-
-*Sobre el rodamiento 608ZZ:
-**Nombre:** Bearing 608ZZ
-**sitio de descarga:** https://www.thingiverse.com/thing:2085033
-**Autor:** Alexey Chelikanov. Stupid_headcrab - https://www.thingiverse.com/Stupid_headcrab
+Esta entrada al repositorio se creó el da 26 de octubre de 2018.
 
 ## **Enlaces**
-Esta información también está disponible en [Thingiverse](https://www.thingiverse.com/thing:3103883)
+Esta información también está disponible en [Thingiverse](https://www.thingiverse.com/thing:1305265)
