@@ -2,6 +2,8 @@
 
 Web oficial del proyecto gallego OpenSource [Escornabot](http://escornabot.com/web/es) 
 
+En este [enlace](http://ceipmiskatonic.blogspot.com/2018/08/escornamaps.html) accedemos al mapa escornabotico.
+
 Imagen de la flotilla al completo. De izquierda a derecha Nieves-Black, Nieves-Orange, Nieves-Yellow, Nieves-Green y Nieves-Grey.
 
 ![Image][1] 
