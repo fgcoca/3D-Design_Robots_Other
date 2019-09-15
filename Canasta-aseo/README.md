@@ -1,6 +1,6 @@
 # **Canastas colgantes de aseo** 
 
-Por petición de mi hija he realizado estas canastas colgantes que le permiten organizar todos los botes y artilugios que tiene en el ase.
+Por petición de mi hija he realizado estas canastas colgantes que le permiten organizar todos los botes y artilugios que tiene en el aseo.
 
 ![Image][1] 
 
