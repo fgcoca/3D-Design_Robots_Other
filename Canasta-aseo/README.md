@@ -34,4 +34,4 @@ Basta con seguir las imágenes y el video para ver cómo va montado sin usar tor
 Esta entrada al repositorio se creó el da 15 de septiembre de 2019.
 
 ## **Enlaces**
-Esta información también está disponible en [Thingiverse](https://www.thingiverse.com/thing:1305265)
+Esta información también está disponible en [Thingiverse](https://www.thingiverse.com/thing:3863288)
